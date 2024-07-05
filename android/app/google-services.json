@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "104319031456",
+    "project_id": "niftyniota",
+    "storage_bucket": "niftyniota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104319031456:android:ff0a839559e17186f851c5",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104319031456-6mh4eoni7r2sifho8c0rlr1ph9om5vih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiueUM63heaWyatCNprbv5urPizszpNaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104319031456-6mh4eoni7r2sifho8c0rlr1ph9om5vih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104319031456-gl975hqv53757dq7qcr3v9sq0v9eu6e8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.niftyNiota"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104319031456:android:97fe02f42c68ec0ff851c5",
+        "android_client_info": {
+          "package_name": "com.example.nifty_niota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104319031456-8i81ao1cj579ri1qajun7gpj4bsi4sg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nifty_niota",
+            "certificate_hash": "2e1fa1e438bb5360a1e1ee59d83b6a0617f34597"
+          }
+        },
+        {
+          "client_id": "104319031456-6mh4eoni7r2sifho8c0rlr1ph9om5vih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiueUM63heaWyatCNprbv5urPizszpNaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104319031456-6mh4eoni7r2sifho8c0rlr1ph9om5vih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104319031456-gl975hqv53757dq7qcr3v9sq0v9eu6e8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.niftyNiota"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
